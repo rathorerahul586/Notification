@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1037986452212",
+    "firebase_url": "https://notification-f2152.firebaseio.com",
+    "project_id": "notification-f2152",
+    "storage_bucket": "notification-f2152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037986452212:android:97bdb01bf8f643e9e944a1",
+        "android_client_info": {
+          "package_name": "com.rathoreapps.student.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037986452212-9o8v6ub224qa87lrfsla7pqpscnsticu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9SlWhsywSZeuUxFHdLQwC2QDXDhdCy_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037986452212-9o8v6ub224qa87lrfsla7pqpscnsticu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
